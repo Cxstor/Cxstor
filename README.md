@@ -4,13 +4,13 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-## Current Commissions:
+### Current Commissions:
 * None; all current projects are personal.
-#### Commission Status: [u]Closed![/u]
+##### Commission Status: [u]Closed![/u]
 
 ---
 
-## Programming and Web Language Knowledge:
+### Programming and Web Language Knowledge:
 
 ---
 
