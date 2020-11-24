@@ -49,21 +49,21 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Scrimba" width="30px" src="https://pbs.twimg.com/profile_images/1253010606694764545/AbGuRWXf.jpg" />
 
-<img align="left" alt="Pycharm" width="30px" src="https://www.qbssoftware.com/image/cache/catalog/qbs/jbpycharm-1000x1000.png" />
+<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 
 <img align="left" alt="Code.org" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Code.org_logo.svg" />
 
 <img align="left" alt="Lua" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Markdown" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Markdown" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
 
-<img align="left" alt="Scratch" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Scratch" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Scratchlogo.svg" />
 
-<img align="left" alt="Scratch Jr" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Scratch Jr" width="30px" src="https://play-lh.googleusercontent.com/Yi07pS-SF3w_ENRrdOvczzesQDmAAch_Kqt8pT8iYgVQ4vnLNb1Sqd2IIe4KIvTeKO0" />
 
-<img align="left" alt="HTML" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 
-<img align="left" alt="CSS" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 
 <img align="left" alt="Bootstrap" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
@@ -90,6 +90,8 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 <img align="left" alt="Swift" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="Python" width="30px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
 
 <img align="left" alt="pip" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
