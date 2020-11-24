@@ -87,9 +87,9 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Vue.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 
-<img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
+<img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />
 
-<img align="left" alt="Angular.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
+<img align="left" alt="Angular.js" width="30px" height="30px" src="https://pluralsight.imgix.net/paths/path-icons/angular-14a0f6532f.png" />
 
 <img align="left" alt="Swift" width="30px" height="30px" src="https://developer.apple.com/swift/images/swift-og.png" />
 
@@ -109,8 +109,16 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Ruby" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 
-<img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
+<img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" />
 
 <img align="left" alt="Rust" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
 
 <img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+
+<img align="left" alt="Amazon Web Services" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+
+<img align="left" alt="Google Cloud" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+
+<img align="left" alt="Glitch" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+
+<img align="left" alt="Vercel" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
