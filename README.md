@@ -51,6 +51,8 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 
+< img align="left" alt="Code.org" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Code.org_logo.svg" />
+
 <img align="left" alt="Lua" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="Markdown" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
@@ -67,17 +69,17 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Bulma.io" width="30px" src="https://bulma.io/images/bulma-banner.png" />
 
-<img align="left" alt="Java" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
-<img align="left" alt="TypeScript" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 
-<img align="left" alt="JSON" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="JSON" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />
 
-<img align="left" alt="Node.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Node.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 
-<img align="left" alt="NPM.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="NPM.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />
 
 <img align="left" alt="Express.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
