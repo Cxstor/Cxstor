@@ -39,74 +39,74 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 ### Programming Languages and Tools:
 
-<img align="left" alt="Git" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Git" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="GitHub" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 
-<img align="left" alt="Xcode" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Xcode" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Scrimba" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Scrimba" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Pycharm" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Pycharm" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Code.org" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Code.org" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Lua" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Lua" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Markdown" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Markdown" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Scratch" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Scratch" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Scratch Jr" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Scratch Jr" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="HTML" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="HTML" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="CSS" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="CSS" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Bootstrap" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Bulma.io" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Bulma.io" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Java" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Java" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="JavaScript" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="TypeScript" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="TypeScript" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="JSON" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="JSON" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Node.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Node.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="NPM.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="NPM.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Express.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Express.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="React.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="React.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Vue.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Vue.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Swift" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Swift" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Python" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Python" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="pip" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="pip" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Ruby" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Ruby" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Rust" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Rust" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Go" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Go" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="C" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="C" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="C#" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="C#" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="C++" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="C++" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="Objective C" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Objective C" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="PHP" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="PHP" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
-<img align="left" alt="SQL" width="26px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="SQL" width="30px" src="https://www.lua.org/images/luaa.gif" />
