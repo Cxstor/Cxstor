@@ -87,7 +87,19 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Vue.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 
+<img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
+
+<img align="left" alt="Angular.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
+
 <img align="left" alt="Swift" width="30px" height="30px" src="https://developer.apple.com/swift/images/swift-og.png" />
+
+<img align="left" alt="Objective C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
+
+<img align="left" alt="C" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
+
+<img align="left" alt="C#" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+
+<img align="left" alt="C++" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
 <img align="left" alt="Python" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
 
@@ -97,26 +109,8 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Ruby" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 
+<img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
+
 <img align="left" alt="Rust" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
 
 <img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
-
-<img align="left" alt="C" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
-
-<img align="left" alt="C#" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-
-<img align="left" alt="C++" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-
-<img align="left" alt="Objective C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-
-<img align="left" alt="PHP" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-
-<img align="left" alt="SQL" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
-
-<img align="left" alt="Amazon Web Services" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
-
-<img align="left" alt="Google Cloud" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
-
-<img align="left" alt="Glitch" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
-
-<img align="left" alt="Vercel" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
