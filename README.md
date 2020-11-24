@@ -62,6 +62,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Ruby" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
+<img align="left" alt="Rust" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
 <img align="left" alt="Go" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="C" width="26px" src="https://www.lua.org/images/luaa.gif" />
@@ -69,6 +71,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 <img align="left" alt="C#" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="C++" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Objective C" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="PHP" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
