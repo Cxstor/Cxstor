@@ -111,4 +111,4 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="PHP" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
-<img align="left" alt="SQL" height="30px" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="SQL" height="30px" width="30px" src="https://www.clipartmax.com/png/middle/275-2753287_sql-is-a-query-language-used-to-communicate-with-databases-sql-language.png" />
