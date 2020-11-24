@@ -1,4 +1,4 @@
-Hello there, welcome to my GitHub Profile. I am known as @cizzles!
+Hello there, welcome to my GitHub Profile. I am known as [cizzles](https://github.com/cizzles)!
 
 I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Businessman, Investor, Conservative, and an Aspiring Economist.
 
