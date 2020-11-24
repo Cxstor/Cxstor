@@ -74,6 +74,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="SQL" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
+<br />
+
 ---
 
 <details>
