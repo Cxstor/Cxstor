@@ -95,19 +95,19 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="pip" width="30px" height="30px" src="https://thepip.com/wp-content/uploads/2016/01/Pip_RGB.png" />
 
-<img align="left" alt="Ruby" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Ruby" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 
-<img align="left" alt="Rust" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Rust" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
 
-<img align="left" alt="Go" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 
-<img align="left" alt="C" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="C" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
 
-<img align="left" alt="C#" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="C#" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 
-<img align="left" alt="C++" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="C++" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
-<img align="left" alt="Objective C" width="30px" s height="30px" rc="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Objective C" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="PHP" height="30px" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
