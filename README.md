@@ -51,7 +51,7 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 
-< img align="left" alt="Code.org" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Code.org_logo.svg" />
+<img align="left" alt="Code.org" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Code.org_logo.svg" />
 
 <img align="left" alt="Lua" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
@@ -81,19 +81,19 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="NPM.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />
 
-<img align="left" alt="Express.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Express.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 
-<img align="left" alt="React.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="React.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 
-<img align="left" alt="Vue.js" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Vue.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 
-<img align="left" alt="Swift" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Swift" width="30px" src="https://developer.apple.com/swift/images/swift-og.png" />
 
-<img align="left" alt="Python" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
 
 <img align="left" alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
 
-<img align="left" alt="pip" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="pip" width="30px" src="https://thepip.com/wp-content/uploads/2016/01/Pip_RGB.png" />
 
 <img align="left" alt="Ruby" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
