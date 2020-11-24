@@ -39,19 +39,19 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 ### Programming Languages and Tools:
 
-<img align="left" alt="Git" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
 
-<img align="left" alt="GitHub" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" />
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 
-<img align="left" alt="Xcode" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Xcode" width="30px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
 
-<img align="left" alt="Scrimba" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Scrimba" width="30px" src="https://pbs.twimg.com/profile_images/1253010606694764545/AbGuRWXf.jpg" />
 
-<img align="left" alt="Pycharm" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Pycharm" width="30px" src="https://www.qbssoftware.com/image/cache/catalog/qbs/jbpycharm-1000x1000.png" />
 
-<img align="left" alt="Code.org" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Code.org" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Code.org_logo.svg" />
 
 <img align="left" alt="Lua" width="30px" src="https://www.lua.org/images/luaa.gif" />
 
