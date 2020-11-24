@@ -37,7 +37,7 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 ---
 
-### Programming Languages and Tools:
+### Programming Languages, Frameworks, Editors, Hosting and Version Control:
 
 <img align="left" alt="Git" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
 
@@ -112,3 +112,11 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 <img align="left" alt="PHP" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
 <img align="left" alt="SQL" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
+
+<img align="left" alt="Amazon Web Services" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
+
+<img align="left" alt="Google Cloud" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
+
+<img align="left" alt="Glitch" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
+
+<img align="left" alt="Vercel" height="30px" width="30px" src="https://enggkatta.com/sql.png" />
