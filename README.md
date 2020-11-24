@@ -27,9 +27,9 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ### For other ways to contact me, please message me on one of the following:
 
-Discord: cizzles#0001
+**Discord:** cizzles#0001
 
-Twitter: [@_cizzles](https://twitter.com/_cizzles)
+**Twitter:** [@_cizzles](https://twitter.com/_cizzles)
 
 ###### Above I have included my means of contact. For more options, please message me on one of the contacts above.
 
