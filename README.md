@@ -4,9 +4,75 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-## Programming Languages and Tools:
+### Programming Languages and Tools:
+
+<img align="left" alt="Git" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="GitHub" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Xcode" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Scrimba" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Pycharm" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Code.org" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="Lua" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Markdown" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Scratch" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Scratch Jr" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="HTML" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="CSS" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Bulma.io" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Java" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="JSON" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Node.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="NPM.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Express.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="React.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Vue.js" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Swift" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Python" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="pip" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Ruby" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="Go" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="C" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="C#" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="C++" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="PHP" width="26px" src="https://www.lua.org/images/luaa.gif" />
+
+<img align="left" alt="SQL" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
 ---
 
@@ -25,7 +91,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-## Current Commissions:
+### Current Commissions:
 * None; all current projects are personal.
 #### Commission Status: Closed!
 
