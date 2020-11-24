@@ -6,7 +6,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ## Programming Languages and Tools:
 
-<img align="left" alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+<img align="left" alt="Lua" width="26px" src="https://www.lua.org/images/luaa.gif" />
 
 ---
 
