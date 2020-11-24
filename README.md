@@ -107,8 +107,8 @@ Twitter: [@_cizzles](https://twitter.com/_cizzles)
 
 <img align="left" alt="C++" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
-<img align="left" alt="Objective C" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="Objective C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
 
-<img align="left" alt="PHP" height="30px" width="30px" src="https://www.lua.org/images/luaa.gif" />
+<img align="left" alt="PHP" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
 <img align="left" alt="SQL" height="30px" width="30px" src="https://www.lua.org/images/luaa.gif" />
