@@ -4,22 +4,28 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-### Current Commissions:
-* None; all current projects are personal.
-##### Commission Status: [u]Closed![/u]
-
----
-
-### Programming and Web Language Knowledge:
+## Programming Languages and Tools:
 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=cizzles&show_icons=true&hide_border=true" />
+  <img align="left" alt="cizzles GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=cizzles&show_icons=true&hide_border=true" />
 
 </details>
+
+---
+
+### Now Playing on Spotify
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="cizzles Now Playing on Spotify" width="350" />](https://open.spotify.com/user/apaig6ltu8b8w8ybkg8xa4n66)
+
+---
+
+## Current Commissions:
+* None; all current projects are personal.
+#### Commission Status: Closed!
 
 ---
 
