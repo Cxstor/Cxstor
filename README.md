@@ -1,16 +1,34 @@
-### Hi there 👋
+Hello there, welcome to my GitHub Profile. I am known as @cizzles!
 
-<!--
-**cizzles/cizzles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Businessman, Investor, Conservative, and an Aspiring Economist.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Commissions:
+* None; all current projects are personal.
+#### Commission Status: [u]Closed![/u]
+
+---
+
+## Programming and Web Language Knowledge:
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=cizzles&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
+### For other ways to contact me, please message me on one of the following:
+
+Discord: cizzles#0001
+
+Twitter: [@_cizzles](https://twitter.com/_cizzles)
+
+###### Above I have included my means of contact. For more options, please message me on one of the contacts above.
+
+**Timezone:** Central
