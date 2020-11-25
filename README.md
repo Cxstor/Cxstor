@@ -17,6 +17,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 [<img src="https://now-playing-on-spotify-plum.vercel.app)" alt="cizzles Now Playing on Spotify" width="350" />](https://open.spotify.com/user/apaig6ltu8b8w8ybkg8xa4n66)
 
+[![Spotify](https://cizzles.vercel.app/api/now-playing-on-spotify)](https://open.spotify.com/user/apaig6ltu8b8w8ybkg8xa4n66)
+
 ---
 
 ### Current Commissions:
