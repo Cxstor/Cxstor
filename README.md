@@ -37,7 +37,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-### Programming Languages, Frameworks, Editors, Hosting and Version Control:
+### Programming Languages, Frameworks, Editors, IDEs, Hosting, Tools, and Version Control:
 
 <img align="left" alt="Git" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
 
