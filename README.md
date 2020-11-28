@@ -119,8 +119,6 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Amazon Web Services" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 
-<img align="left" alt="Google Cloud" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Google_Cloud_Logo.svg" />
-
 <img align="left" alt="Glitch" width="30px" height="30px" src="https://i.pinimg.com/originals/9f/45/b1/9f45b1a13a6d104ab4df529bb7286981.png" />
 
 <img align="left" alt="Vercel" width="30px" height="30px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" />
