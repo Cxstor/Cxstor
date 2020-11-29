@@ -53,7 +53,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Pycharm" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 
-<img align="left" alt="Code.org" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Code.org_logo.svg" />
+<img align="left" alt="Atom" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Atom_icon.svg" />
 
 <img align="left" alt="Lua" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
 
