@@ -51,8 +51,6 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Eclipse" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 
-<img align="left" alt="Scrimba" width="30px" height="30px" src="https://pbs.twimg.com/profile_images/1253010606694764545/AbGuRWXf.jpg" />
-
 <img align="left" alt="Pycharm" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 
 <img align="left" alt="Remix" width="30px" height="30px" src="https://remix.ethereum.org/assets/img/icon.png" />
