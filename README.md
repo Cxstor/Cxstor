@@ -119,7 +119,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 
-< img align="left" alt="Solidity" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+<img align="left" alt="Solidity" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
 
 <img align="left" alt="Amazon Web Services" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 
