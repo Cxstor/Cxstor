@@ -67,8 +67,6 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="CSS" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 
-<img align="left" alt="Bootstrap" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
-
 <img align="left" alt="Bulma.io" width="30px" height="30px" src="https://bulma.io/images/bulma-banner.png" />
 
 <img align="left" alt="Java" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
