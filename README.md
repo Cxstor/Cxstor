@@ -55,6 +55,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Pycharm" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 
+<img align="left" alt="Remix" width="30px" height="30px" src="https://remix.ethereum.org/assets/img/icon.png" />
+
 <img align="left" alt="Lua" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="Markdown" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
@@ -116,6 +118,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 <img align="left" alt="Rust" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
 
 <img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+
+< img align="left" alt="Solidity" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
 
 <img align="left" alt="Amazon Web Services" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 
