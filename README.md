@@ -55,6 +55,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Remix" width="30px" height="30px" src="https://remix.ethereum.org/assets/img/icon.png" />
 
+<img align="left" alt="Repl.it" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />
+
 <img align="left" alt="Lua" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
 
 <img align="left" alt="Markdown" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
@@ -87,9 +89,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Vue.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 
-<img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />
-
-<img align="left" alt="Angular.js" width="30px" height="30px" src="https://pluralsight.imgix.net/paths/path-icons/angular-14a0f6532f.png" />
+<img align="left" alt="Angular.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />
 
 <img align="left" alt="Swift" width="30px" height="30px" src="https://developer.apple.com/swift/images/swift-og.png" />
 
