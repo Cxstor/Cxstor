@@ -42,7 +42,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Eclipse" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 
-<img align="left" alt="Pycharm" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
+<img align="left" alt="Pycharm" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 
 <img align="left" alt="Remix" width="30px" height="30px" src="https://remix.ethereum.org/assets/img/icon.png" />
 
@@ -88,7 +88,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="C" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
 
-<img align="left" alt="C#" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" alt="C Sharp" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 
 <img align="left" alt="C++" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
