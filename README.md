@@ -96,8 +96,8 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 <img align="left" alt="Django" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
 
-<img align="left" alt="pip" width="30px" height="30px" src="https://thepip.com/wp-content/uploads/2016/01/Pip_RGB.png" />
-
+<img align="left" alt="pip" width="30px" height="30px" src="" />
+ 
 <img align="left" alt="Ruby" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 
 <img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" />
