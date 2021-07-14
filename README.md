@@ -4,7 +4,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-### Now Playing on Spotify
+### Now Playing on Spotify:
 
 [![Spotify](https://cizzles-now-playing-on-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/apaig6ltu8b8w8ybkg8xa4n66)
 
@@ -24,92 +24,58 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ###### Above I have included my means of contact. For more options, please message me on one of the contacts above.
 
-**Timezone:** Central
+**Timezone:** Central (UTC-5)
 
 ---
 
-### Programming Languages, Frameworks, Editors, IDEs, Hosting, Tools, and Version Control:
+#### Primary Languages
 
-<img align="left" alt="Git" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+Java, Lua/Luau
 
-<img align="left" alt="GitHub" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" />
+#### Programming Languages
 
-<img align="left" alt="Visual Studio Code" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+C, C#, C++, Go, JS (JavaScript), Java, Lua/Luau, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
 
-<img align="left" alt="Xcode" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
+#### Markup Languages
 
-<img align="left" alt="Atom" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Atom_icon.svg" />
+HTML (HyperText Markup Language), Markdown
 
-<img align="left" alt="Eclipse" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
+#### Style Sheet Languages
 
-<img align="left" alt="Pycharm" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
+CSS (Cascading Style Sheets)
 
-<img align="left" alt="Remix" width="30px" height="30px" src="https://remix.ethereum.org/assets/img/icon.png" />
+#### Data Interchange Languages
 
-<img align="left" alt="Repl.it" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />
+JSON (JavaScript Object Notation)
 
-<img align="left" alt="Lua" width="30px" height="30px" src="https://www.lua.org/images/luaa.gif" />
+#### Runtime Envrionments
 
-<img align="left" alt="Markdown" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
+Node.js
 
-<img align="left" alt="Scratch" width="30px" height="30px" src="https://i.vimeocdn.com/video/436649156.webp?mw=1200&mh=777&q=70" />
+#### Frameworks
 
-<img align="left" alt="Scratch Jr" width="30px" height="30px" src="https://play-lh.googleusercontent.com/Yi07pS-SF3w_ENRrdOvczzesQDmAAch_Kqt8pT8iYgVQ4vnLNb1Sqd2IIe4KIvTeKO0" />
+Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
 
-<img align="left" alt="HTML" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+#### Libraries
 
-<img align="left" alt="CSS" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+React.js
 
-<img align="left" alt="Bulma.io" width="30px" height="30px" src="https://bulma.io/images/bulma-banner.png" />
+#### Package Managers
 
-<img align="left" alt="Java" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
+NPM, pip
 
-<img align="left" alt="JavaScript" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+#### Editors
 
-<img align="left" alt="TypeScript" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+Atom, Visual Studio Code
 
-<img align="left" alt="JSON" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />
+#### IDEs (Integrated Development Environments)
 
-<img align="left" alt="Node.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+Eclipse, Pycharm, Repl.it, Xcode
 
-<img align="left" alt="NPM.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />
+#### Version Control
 
-<img align="left" alt="Express.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+Git/GitHub/GitLab
 
-<img align="left" alt="React.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+#### Hosting
 
-<img align="left" alt="Vue.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
-
-<img align="left" alt="Angular.js" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />
-
-<img align="left" alt="Swift" width="30px" height="30px" src="https://developer.apple.com/swift/images/swift-og.png" />
-
-<img align="left" alt="Objective C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-
-<img align="left" alt="C" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
-
-<img align="left" alt="C Sharp" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
-
-<img align="left" alt="C++" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-
-<img align="left" alt="Python" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
-
-<img align="left" alt="Django" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
-
-<img align="left" alt="pip" width="30px" height="30px" src="" />
- 
-<img align="left" alt="Ruby" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
-
-<img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" />
-
-<img align="left" alt="Rust" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
-
-<img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
-
-<img align="left" alt="Solidity" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
-
-<img align="left" alt="Amazon Web Services" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
-
-<img align="left" alt="Glitch" width="30px" height="30px" src="https://i.pinimg.com/originals/9f/45/b1/9f45b1a13a6d104ab4df529bb7286981.png" />
-
-<img align="left" alt="Vercel" width="30px" height="30px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" />
+Amazon Web Services, Glitch, Google Cloud Services, Heroku, Vercel
