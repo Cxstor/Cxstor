@@ -24,7 +24,7 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ###### Above I have included my means of contact. For more options, please message me on one of the contacts above.
 
-**Timezone:** Central (UTC-5)
+**Timezone:** Central (GMT-5/UTC-5)
 
 ---
 
