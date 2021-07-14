@@ -28,54 +28,54 @@ I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Bu
 
 ---
 
-#### Primary Languages
+### Primary Languages
 
 Java, Lua/Luau
 
-#### Programming Languages
+### Programming Languages
 
 C, C#, C++, Go, JS (JavaScript), Java, Lua/Luau, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
 
-#### Markup Languages
+### Markup Languages
 
 HTML (HyperText Markup Language), Markdown
 
-#### Style Sheet Languages
+### Style Sheet Languages
 
 CSS (Cascading Style Sheets)
 
-#### Data Interchange Languages
+### Data Interchange Languages
 
 JSON (JavaScript Object Notation)
 
-#### Runtime Envrionments
+### Runtime Envrionments
 
 Node.js
 
-#### Frameworks
+### Frameworks
 
 Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
 
-#### Libraries
+### Libraries
 
 React.js
 
-#### Package Managers
+### Package Managers
 
 NPM, pip
 
-#### Editors
+### Editors
 
 Atom, Visual Studio Code
 
-#### IDEs (Integrated Development Environments)
+### IDEs (Integrated Development Environments)
 
 Eclipse, Pycharm, Repl.it, Xcode
 
-#### Version Control
+### Version Control
 
 Git/GitHub/GitLab
 
-#### Hosting
+### Hosting
 
 Amazon Web Services, Glitch, Google Cloud Services, Heroku, Vercel
