@@ -34,7 +34,7 @@ Java, Lua/Luau
 
 ### Programming Languages
 
-C, C#, C++, Go, JS (JavaScript), Java, Lua/Luau, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
+C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
 
 ### Markup Languages
 
