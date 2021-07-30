@@ -10,10 +10,39 @@ I am a programmer, designer (game/experience, graphic, user experience and web),
 
 ---
 
-### Current Commissions:
-* None! Commissions have been suspended due to my current personal projects.
-#### Commission Status:
-* Suspended Until Further Notice!
+##### Note: The integers in between the parentheses is my percentage of revenue share or my payment or salary for the project.
+
+### Current Projects:
+#### cizzles
+* Story Simulator (50-50)
+* 
+
+#### Trojan Technologies
+
+#### Sentinel
+
+### Future Projects:
+#### cizzles
+* Booster (100)
+* Booster VR (100)
+* Legacy (100)
+* Experience the Metaverse (100)
+* The Network (100)
+* Syndicate (100)
+* Spellcaster (100)
+
+#### NCPD
+* 
+
+### Previous Projects:
+#### cizzles
+Club Astro (100)
+Club Astro Ranking Center (100)
+Club Astro Arena (100)
+Club Astro Clothing Center (100)
+
+#### Undisclosed
+For the privacy of my past employers I will omit non-personal projects.
 
 ---
 
