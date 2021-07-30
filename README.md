@@ -30,9 +30,9 @@ Node.js
 
 Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
 
-### Libraries
+### (JS) JavaScript Libraries
 
-React.js
+React.js, jQuery
 
 ### Engines
 
