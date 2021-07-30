@@ -1,6 +1,6 @@
-Hello there, welcome to my GitHub Profile. I am known as [cizzles](https://github.com/cizzles)!
+Hello World! Welcome to my GitHub profile. I am known as [cizzles](https://github.com/cizzles)!
 
-I am a Programmer, Graphic Designer, Web Designer, Game Designer, Businessman, Investor, Conservative, Cybersecurity Enthusiast, and an Aspiring Economist.
+I am a programmer, designer (game/experience, graphic, user experience and web), business, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
 
 ---
 
@@ -28,7 +28,7 @@ I am a Programmer, Graphic Designer, Web Designer, Game Designer, Businessman, I
 
 ---
 
-### Primary Languages
+### Primary Programming Languages
 
 Java, Lua/Luau
 
@@ -36,17 +36,9 @@ Java, Lua/Luau
 
 C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
 
-### Markup Languages
+### Other Relevant Languages
 
-HTML (HyperText Markup Language), Markdown
-
-### Style Sheet Languages
-
-CSS (Cascading Style Sheets)
-
-### Data Interchange Languages
-
-JSON (JavaScript Object Notation)
+CSS (Cascading Style Sheets), HTML (HyperText Markup Language), JSON (JavaScript Object Notation), Markdown
 
 ### Runtime Envrionments
 
@@ -60,9 +52,9 @@ Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
 
 React.js
 
-### Package Managers
+### Engines
 
-NPM, pip
+Roblox/Roblox Studio
 
 ### Editors
 
@@ -75,6 +67,10 @@ Eclipse, Pycharm, Repl.it, Xcode
 ### Version Control
 
 Git/GitHub/GitLab
+
+### Package Managers
+
+NPM, pip
 
 ### Hosting
 
