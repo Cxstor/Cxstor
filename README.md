@@ -20,7 +20,7 @@ C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, Python, Ruby, Rust, Scratch, Sc
 
 ### Other Relevant Languages
 
-CSS (Cascading Style Sheets), HTML (HyperText Markup Language), JSON (JavaScript Object Notation), Markdown
+Bash, CSS (Cascading Style Sheets), HTML (HyperText Markup Language), JSON (JavaScript Object Notation), Markdown
 
 ### Runtime Envrionments
 
@@ -58,9 +58,13 @@ NPM, pip
 
 Amazon Web Services, Glitch, Google Cloud Services, Heroku, Vercel
 
+### Operating Systems
+
+Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
+
 ---
 
-**Hey, I am also the leader, manager, and/or developer of several projects!**
+Hey, I am also the leader, manager, and/or developer of several projects!
 
 ### Current Projects:
 #### cizzles
