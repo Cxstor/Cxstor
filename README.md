@@ -77,7 +77,7 @@ Hey, I am also the leader, manager, and/or developer of several projects!
 * Support A Creator | Trojan Technologies (50)
 * Products offered by the Trojan Technologies Service (50)
 
-#### Sentinel
+#### Sentinel (Trojan Technologies Subsidary)
 * Sentinel | Portal (50)
 * Sentinel | Purchasing Center (50)
 * Sentinel | Donation Center (50)
@@ -97,7 +97,7 @@ Hey, I am also the leader, manager, and/or developer of several projects!
 * Syndicate (100)
 * Spellcaster (100)
 
-#### NCPD
+#### NCPD (North Coast Police Department)
 * City of North Coast (50)
 * NCPD | Ranking Center (50)
 * NCPD | Applications Center (50)
@@ -108,7 +108,10 @@ Hey, I am also the leader, manager, and/or developer of several projects!
 #### BUX
 * BUX (TBD)
 
-#### Bounty/Bounties/Bounty Hunter (TBD)
+#### Bounty/Bounties/Bounty Hunter/etc. (BUX Subsidiary)
+* TBD (TBD)
+
+#### Roblox Domains
 * TBD (TBD)
 
 ### Previous Projects:
