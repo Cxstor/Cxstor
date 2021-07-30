@@ -16,7 +16,7 @@ Java, Lua/Luau
 
 ### Programming Languages
 
-C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
+C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, PHP, Python, Ruby, Rust, Scratch, ScratchJr, Solidity, Swift, TS (TypeScript)
 
 ### Other Relevant Languages
 
@@ -30,7 +30,7 @@ Node.js
 
 Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
 
-### (JS) JavaScript Libraries
+### Relevant Libraries
 
 React.js, jQuery
 
