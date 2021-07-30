@@ -1,6 +1,6 @@
 Hello World! Welcome to my GitHub profile. I am known as [cizzles](https://github.com/cizzles)!
 
-I am a programmer, designer (character, game/experience, graphic, map, user experience, user interface and web), businessman, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
+I am a programmer, designer (character, game/experience, graphic, map, user experience, user interface and web), developer, writer, businessman, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
 
 ---
 
@@ -88,6 +88,8 @@ Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 #### Undisclosed
 * Comission (25)
 
+---
+
 ### Future Projects:
 #### cizzles
 * Booster (100)
@@ -117,6 +119,8 @@ Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 
 #### Undisclosed
 * That is all I am sharing for now ;)
+
+---
 
 ### Previous Projects:
 #### cizzles
