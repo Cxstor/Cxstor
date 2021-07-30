@@ -1,6 +1,6 @@
 Hello World! Welcome to my GitHub profile. I am known as [cizzles](https://github.com/cizzles)!
 
-I am a programmer, designer (game/experience, graphic, user experience and web), business, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
+I am a programmer, designer (character, game/experience, graphic, map, user experience, user interface and web), businessman, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
 
 ---
 
@@ -63,8 +63,6 @@ Amazon Web Services, Glitch, Google Cloud Services, Heroku, Vercel
 Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 
 ---
-
-I am also the leader, manager, and/or developer of several projects!
 
 ### Current Projects:
 #### cizzles
@@ -130,7 +128,7 @@ I am also the leader, manager, and/or developer of several projects!
 #### Undisclosed
 For the privacy of my past employers I will omit non-personal projects.
 
-###### Note: The integers in between the parentheses is my percentage of revenue share or my payment or salary for the project.
+###### The integers in between the parentheses is my percentage of revenue share or my payment or salary for the project.
 
 ---
 
