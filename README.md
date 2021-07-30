@@ -64,11 +64,11 @@ Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 
 ---
 
-Hey, I am also the leader, manager, and/or developer of several projects!
+I am also the leader, manager, and/or developer of several projects!
 
 ### Current Projects:
 #### cizzles
-* Story Simulator (50-50)
+* Story Simulator (50)
 
 #### Trojan Technologies
 * Trojan Technologies | Portal (50)
@@ -113,6 +113,9 @@ Hey, I am also the leader, manager, and/or developer of several projects!
 
 #### Roblox Domains
 * TBD (TBD)
+
+#### Undisclosed
+* That is all I am sharing for now ;)
 
 ### Previous Projects:
 #### cizzles
