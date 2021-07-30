@@ -60,26 +60,28 @@ Amazon Web Services, Glitch, Google Cloud Services, Heroku, Vercel
 
 ---
 
+**Hey, I am also the leader, manager, and/or developer of several projects!**
+
 ### Current Projects:
 #### cizzles
 * Story Simulator (50-50)
 
 #### Trojan Technologies
-Trojan Technologies | Portal (50)
-Trojan Technologies | Purchasing Center (50)
-Trojan Technologies | Donation Center (50)
-Support A Creator | Trojan Technologies (50)
-Products offered by the Trojan Technologies Service (50)
+* Trojan Technologies | Portal (50)
+* Trojan Technologies | Purchasing Center (50)
+* Trojan Technologies | Donation Center (50)
+* Support A Creator | Trojan Technologies (50)
+* Products offered by the Trojan Technologies Service (50)
 
 #### Sentinel
-Sentinel | Portal (50)
-Sentinel | Purchasing Center (50)
-Sentinel | Donation Center (50)
-Support A Creator | Sentinel (50)
-Products offered by the Sentinel Service (50)
+* Sentinel | Portal (50)
+* Sentinel | Purchasing Center (50)
+* Sentinel | Donation Center (50)
+* Support A Creator | Sentinel (50)
+* Products offered by the Sentinel Service (50)
 
 #### Timeless Traders
-Timeless Trading Center (100)
+* Timeless Trading Center (100)
 
 ### Future Projects:
 #### cizzles
