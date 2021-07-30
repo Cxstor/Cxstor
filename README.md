@@ -11,8 +11,9 @@ I am a programmer, designer (game/experience, graphic, user experience and web),
 ---
 
 ### Current Commissions:
-* None; all current projects are personal.
-#### Commission Status: Closed!
+* None! Commissions have been suspended due to my current personal projects.
+#### Commission Status:
+* Suspended Until Further Notice!
 
 ---
 
