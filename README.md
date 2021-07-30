@@ -1,6 +1,6 @@
 Hello there, welcome to my GitHub Profile. I am known as [cizzles](https://github.com/cizzles)!
 
-I am a 3D Modeler, Programmer, Graphic Designer, Web Designer, Game Designer, Businessman, Investor, Conservative, Cybersecurity Enthusiast, and an Aspiring Economist.
+I am a Programmer, Graphic Designer, Web Designer, Game Designer, Businessman, Investor, Conservative, Cybersecurity Enthusiast, and an Aspiring Economist.
 
 ---
 
