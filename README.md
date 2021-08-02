@@ -12,7 +12,7 @@ I am a programmer, designer (character, game/experience, graphic, map, user expe
 
 ### Primary Programming Languages
 
-Java, Lua/Luau, Python
+Lua/Luau, Python
 
 ### Programming Languages
 
@@ -111,7 +111,7 @@ Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 #### BUX
 * BUX (TBD)
 
-#### Bounty/Bounties/Bounty Hunter/etc. (BUX Subsidiary)
+#### Bounty/Bounties/Bounty Hunter/Campaign/etc. (BUX Subsidiary)
 * TBD (TBD)
 
 #### Roblox Domains
