@@ -34,9 +34,9 @@ Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
 
 React.js, jQuery
 
-### Engines
+### Game Engines
 
-Roblox/Roblox Studio
+Roblox
 
 ### Editors
 
@@ -44,7 +44,7 @@ Atom, Visual Studio Code
 
 ### IDEs (Integrated Development Environments)
 
-Eclipse, Pycharm, Repl.it, Xcode
+Eclipse, Pycharm, Repl.it, Roblox Studio, Xcode
 
 ### Version Control
 
