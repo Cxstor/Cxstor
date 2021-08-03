@@ -44,7 +44,7 @@ Atom, Visual Studio Code
 
 ### IDEs (Integrated Development Environments)
 
-Eclipse, Pycharm, Repl.it, Roblox Studio, Xcode
+Eclipse, Pycharm, Repl.it, Xcode
 
 ### Version Control
 
