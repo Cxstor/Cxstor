@@ -36,7 +36,7 @@ React.js, jQuery
 
 ### Game Engines
 
-Roblox
+Roblox, Unity, Unreal
 
 ### Editors
 
@@ -44,7 +44,7 @@ Atom, Visual Studio Code
 
 ### IDEs (Integrated Development Environments)
 
-Eclipse, Pycharm, Repl.it, Xcode
+Eclipse, PopSQL, Pycharm, Repl.it, Xcode
 
 ### Version Control
 
@@ -53,6 +53,10 @@ Git/GitHub/GitLab
 ### Package Managers
 
 NPM, pip
+
+### (RDBMSs) Relational Database Management Systems
+
+MySQL
 
 ### Hosting
 
