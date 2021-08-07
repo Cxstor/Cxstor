@@ -54,7 +54,7 @@ Git/GitHub/GitLab
 
 NPM, pip
 
-### (RDBMSs) Relational Database Management Systems
+### RDBMSs (Relational Database Management Systems)
 
 MySQL
 
