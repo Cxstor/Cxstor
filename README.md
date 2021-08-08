@@ -70,7 +70,8 @@ Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 
 ### For other ways to contact me, please message me on one of the following:
 
-**Discord:** 350094566277251072
+**Discord:** cizzles#0001
+**Disocrd User ID:** 350094566277251072
 
 **Twitter:** [@cizzles_Live](https://twitter.com/cizzles_Live)
 
