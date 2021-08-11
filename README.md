@@ -52,7 +52,7 @@ Git/GitHub/GitLab
 
 ### Package Managers
 
-NPM, pip
+Composer, Cargo, NPM, pip
 
 ### RDBMSs (Relational Database Management Systems)
 
