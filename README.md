@@ -16,7 +16,7 @@ C++, Lua/Luau, Python
 
 ### Programming Languages
 
-C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, PHP, Python, Ruby, Rust, Scratch, ScratchJr, SQL (Structured Query Language), Swift
+C, C#, C++, Go, Java, JS (JavaScript), Lua/Luau, PHP, Python, Ruby, Rust, Scratch, ScratchJr, SQL (Structured Query Language), Swift, TS (TypeScript)
 
 ### Other Relevant Languages
 
