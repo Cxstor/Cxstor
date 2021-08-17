@@ -74,6 +74,8 @@ Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 
 **Discord User ID:** 350094566277251072
 
+**Guilded:** [cizzles](https://www.guilded.gg/u/cizzles)
+
 **Twitter:** [@cizzles_Live](https://twitter.com/cizzles_Live)
 
 ###### Above I have included my means of contact. For more options, please message me on one of the contacts above.
