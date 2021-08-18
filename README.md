@@ -28,11 +28,7 @@ Node.js
 
 ### Frameworks
 
-Angular.js, Bulma, Django, Electron, Express.js, Ruby on Rails, Vue.js
-
-### Relevant Libraries
-
-React.js, jQuery
+Angular.js, Bulma, Django, Electron, Express.js, React.js, Ruby on Rails, Vue.js
 
 ### Game Engines
 
