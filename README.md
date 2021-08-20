@@ -40,7 +40,7 @@ Atom, Visual Studio Code
 
 ### IDEs (Integrated Development Environments)
 
-Eclipse, PopSQL, Pycharm, Repl.it, Xcode
+Eclipse, PopSQL, Repl.it, Xcode
 
 ### Version Control
 
