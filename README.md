@@ -32,7 +32,7 @@ Angular.js, Bulma, Django, Electron, Express.js, React.js, Vue.js
 
 ### Game Engines
 
-Roblox, Unity, Unreal
+Roblox, Unity, Unreal and/or Core
 
 ### Editors
 
