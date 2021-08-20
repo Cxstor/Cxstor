@@ -16,7 +16,7 @@ Java, Lua/Luau, Python
 
 ### Programming Languages
 
-C, C#, C++, Java, JS (JavaScript), Lua/Luau, PHP, Python, Ruby, Rust, Scratch, ScratchJr, SQL (Structured Query Language), Swift, TS (TypeScript)
+C, C#, C++, Java, JS (JavaScript), Lua/Luau, PHP, Python, Rust, Scratch, ScratchJr, SQL (Structured Query Language), Swift, TS (TypeScript)
 
 ### Other Relevant Languages
 
@@ -28,7 +28,7 @@ Node.js
 
 ### Frameworks
 
-Angular.js, Bulma, Django, Electron, Express.js, React.js, Ruby on Rails, Vue.js
+Angular.js, Bulma, Django, Electron, Express.js, React.js, Vue.js
 
 ### Game Engines
 
