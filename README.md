@@ -22,13 +22,9 @@ C, C#, C++, Java, JS (JavaScript), Lua/Luau, PHP (Personal Home Page; Hypertext 
 
 Bash, CSS (Cascading Style Sheets), HTML (HyperText Markup Language), JSON (JavaScript Object Notation), Markdown
 
-### Runtime Envrionments
+### Relevant Libraries, Frameworks, and Runtime Environments
 
-Node.js
-
-### Frameworks
-
-Angular.js, Bulma, Django, Electron, Express.js, React.js, Vue.js
+Angular.js, Bulma, Django, Electron, Express.js, jQuery, Node.js, React.js, Vue.js
 
 ### Game Engines
 
