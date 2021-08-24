@@ -40,7 +40,7 @@ Git/GitHub/GitLab
 
 ### Package Managers
 
-Composer, Cargo, NPM, pip
+Composer, Cargo, NPM, pip, yum
 
 ### RDBMSs (Relational Database Management Systems)
 
