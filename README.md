@@ -34,13 +34,9 @@ Angular.js, Bulma, Django, Electron, Express.js, React.js, Vue.js
 
 Roblox, Unity, Unreal and/or Core
 
-### Editors
+### Editors & IDEs (Integrated Development Environments)
 
-Atom, Visual Studio Code
-
-### IDEs (Integrated Development Environments)
-
-Eclipse, PopSQL, Repl.it, Xcode
+Atom, Eclipse, PopSQL, Repl.it, Visual Studio Code, Xcode
 
 ### Version Control
 
