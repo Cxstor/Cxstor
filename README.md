@@ -22,10 +22,6 @@ C, C#, C++, Java, JS (JavaScript), Lua/Luau, PHP (Personal Home Page; Hypertext 
 
 Bash, CSS (Cascading Style Sheets), HTML (HyperText Markup Language), JSON (JavaScript Object Notation), Markdown
 
-### Relevant Libraries, Frameworks, and Runtime Environments
-
-Angular.js, Bulma, Django, Electron, Express.js, jQuery, Node.js, React.js, Vue.js
-
 ### Game Engines
 
 Roblox, Unity, Unreal and/or Core
@@ -33,26 +29,6 @@ Roblox, Unity, Unreal and/or Core
 ### Editors & IDEs (Integrated Development Environments)
 
 Atom, Eclipse, PopSQL, Repl.it, Visual Studio Code, Xcode
-
-### Version Control
-
-Git/GitHub/GitLab
-
-### Package Managers
-
-Composer, Cargo, NPM, pip, yum
-
-### RDBMSs (Relational Database Management Systems)
-
-MySQL
-
-### Hosting
-
-Amazon Web Services, Glitch, Google Cloud Services, Heroku, Vercel
-
-### Operating Systems
-
-Android, Chrome OS, iOS, Linux, macOS, Microsoft Windows/Windows 10, Unix
 
 ---
 
