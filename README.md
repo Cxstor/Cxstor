@@ -30,6 +30,8 @@ Roblox, Unity, Unreal and/or Core
 
 Atom, Eclipse, PopSQL, Repl.it, Visual Studio Code, Xcode
 
+### Tech Stacks
+I have omitted my knowledge of knowing how to use several tech stacks
 ---
 
 ### For other ways to contact me, please message me on one of the following:
