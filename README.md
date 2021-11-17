@@ -1,6 +1,6 @@
 Hello, World! Welcome to my GitHub profile. I am known as [cizzles](https://github.com/cizzles)!
 
-I am a programmer, designer (character, game/experience, graphic, map, user experience, user interface and web), developer, writer, businessman, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
+I am a programmer, designer (character, game/experience, graphic, map, user experience, user interface, and web), developer, writer, businessman, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
 
 ---
 
@@ -12,11 +12,11 @@ I am a programmer, designer (character, game/experience, graphic, map, user expe
 
 ### Primary Programming Languages
 
-Lua/Luau, Python, TS (TypeScript)
+Java, Luau (Lua), Python, TS (TypeScript)
 
 ### Programming Languages
 
-C, C#, C++, Java, JS (JavaScript), Lua/Luau, PHP (Personal Home Page; Hypertext Preprocessor), Python, Rust, Scratch, ScratchJr, SQL (Structured Query Language), Swift, TS (TypeScript)
+C, C#, C++, Java, JS (JavaScript), Luau (Lua), PHP (Personal Home Page; Hypertext Preprocessor), Python, Rust, Scratch, ScratchJr, SQL (Structured Query Language), Swift, TS (TypeScript)
 
 ### Other Relevant Languages
 
@@ -24,7 +24,7 @@ Bash, CSS (Cascading Style Sheets), HTML (HyperText Markup Language), JSON (Java
 
 ### Game Engines
 
-Roblox, Unity, Unreal and/or Core
+Core (Unreal), Roblox, Unity
 
 ### Editors & IDEs (Integrated Development Environments)
 
@@ -32,7 +32,7 @@ Atom, Eclipse, PopSQL, Repl.it, Visual Studio Code, Xcode
 
 ### Tech Stacks
 
-I have omitted my knowledge of knowing how to use several tech stacks
+Omitted
 
 ---
 
