@@ -12,7 +12,7 @@ I am a programmer, designer (character, game, experience, graphic, map, user exp
 
 ### Primary Programming Languages
 
-Java, Luau (Lua), Python, TS (TypeScript)
+Luau (Lua), Python, TS (TypeScript)
 
 ### Programming Languages
 
