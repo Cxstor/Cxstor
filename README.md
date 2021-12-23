@@ -1,6 +1,6 @@
 Hello, World! Welcome to my GitHub profile. I am [cizzles](https://github.com/cizzles)!
 
-I am a programmer, designer, developer, writer, businessman, investor, conservative, cybersecurity enthusiast, and an aspiring software engineer.
+I am a programmer, designer, developer, writer, conservative, cybersecurity enthusiast, and an aspiring software engineer.
 
 ---
 
