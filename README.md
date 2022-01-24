@@ -10,15 +10,19 @@ I am a programmer, designer, developer, writer, conservative, cybersecurity enth
 
 ---
 
-### Primary Programming Languages:
+### Programming Languages:
 
-Luau (Lua), Python, Rust, TS (TypeScript)
+Luau, Python, TypeScript
+
+### Currently Learning:
+
+C#, Rust
 
 ---
 
 ### Contact Me:
 
-**Discord:** cizzles#0001
+**Discord:** cizzles#4685
 
 **Discord User ID:** 350094566277251072
 
