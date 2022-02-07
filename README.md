@@ -1,6 +1,10 @@
-Hello, World! Welcome to my GitHub profile. I am [cizzles](https://github.com/cizzles)!
+`Hello, World!`
 
-I am a programmer, designer, developer, writer, conservative, cybersecurity enthusiast, and am working towards degrees in business and software engineering.
+Welcome to my GitHub profile.
+
+I am [cizzles](https://github.com/cizzles)!
+
+I am a programmer, designer, developer, writer, conservative, cybersecurity enthusiast, and I am currently working towards degrees in business and software engineering.
 
 ---
 
@@ -10,24 +14,22 @@ I am a programmer, designer, developer, writer, conservative, cybersecurity enth
 
 ---
 
-### Primary Languages:
+### Main Languages:
 
 CSS, HTML, Luau, Python, TypeScript
 
 ### Currently Learning:
 
-C#, Rust, Udon
+C#, Udon
 
 ---
 
 ### Contact Me:
 
-**Discord:** cizzles#4685
-
-**Discord User ID:** 350094566277251072
+**Discord:** cizzles#4685 (*350094566277251072*)
 
 **Guilded:** [cizzles](https://www.guilded.gg/u/cizzles)
 
 **Twitter:** [@cizzles_Live](https://twitter.com/cizzles_Live)
 
-**Timezone:** Central (GMT-5/UTC-5)
+**Timezone:** Central (*UTC-5*)
