@@ -16,7 +16,7 @@ I am a cybersecurity enthusiast, designer, developer, programmer, and writer amo
 
 ### Main Languages:
 
-CSS, HTML, JavaScript, Luau, Python
+CSS, HTML, JS/TS, Luau, Python
 
 ### Currently Learning:
 
