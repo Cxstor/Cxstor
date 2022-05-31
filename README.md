@@ -16,11 +16,11 @@ I am a cybersecurity enthusiast, designer, developer, programmer, and writer amo
 
 ### Main Languages:
 
-CSS, HTML, Luau, Python, TypeScript
+CSS, HTML, JavaScript, Luau, Python
 
 ### Currently Learning:
 
-C#, Udon
+Java :(
 
 ---
 
