@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 I am [cizzles](https://github.com/cizzles)!
 
-I am a cybersecurity enthusiast, designer, developer, programmer, and writer among other things. I am currently pursuing degrees in business and software engineering.
+I am a game and web programmer. I am currently pursuing my undergraduate degree in software engineering.
 
 ---
 
