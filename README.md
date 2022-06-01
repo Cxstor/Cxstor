@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I am [cizzles](https://github.com/cizzles)!
+I am [Castor](https://github.com/cxstor)!
 
 I am a game and web programmer. I am currently pursuing my undergraduate degree in software engineering.
 
@@ -18,18 +18,18 @@ I am a game and web programmer. I am currently pursuing my undergraduate degree 
 
 CSS, HTML, JS/TS, Luau, Python
 
-### Currently Learning:
+### Currently Studying:
 
-Java :(
+Java
 
 ---
 
 ### Contact Me:
 
-**Discord:** cizzles#4685 (*350094566277251072*)
+**Discord:** 
 
-**Guilded:** [cizzles](https://www.guilded.gg/u/cizzles)
+**Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
-**Twitter:** [@cizzles_Live](https://twitter.com/cizzles_Live)
+**Twitter:** [@Castor_Live](https://twitter.com/Castor_Live)
 
 **Timezone:** Central (*UTC-5*)
