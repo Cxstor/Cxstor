@@ -28,7 +28,7 @@ Java
 
 **Discord:** 
 
-**Guilded:** [Carter](https://www.guilded.gg/u/Carter)
+**Guilded:** [Carter](https://www.guilded.gg/u/carter)
 
 **Twitter:** [@Castor_Live](https://twitter.com/Castor_Live)
 
