@@ -26,7 +26,7 @@ Java
 
 ### Contact Me:
 
-**Discord:** 
+**Discord:** Castor#9657
 
 **Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
