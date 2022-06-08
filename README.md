@@ -30,6 +30,5 @@ Java
 
 **Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
-**Twitter:** [@Castor_Live](https://twitter.com/Castor_Live)
-
+**Twitter:** [@Castor_Live](https://twitter.com/cxstordev)
 **Timezone:** Central (*UTC-5*)
