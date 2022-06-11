@@ -14,9 +14,9 @@ I am a game and web programmer. I am currently pursuing my undergraduate degree 
 
 ---
 
-### Main Languages:
+### Main:
 
-CSS, HTML, JS/TS, Luau, Python
+CSS, HTML, JS/JSX/TS/TSX, Luau, Python
 
 ### Currently Studying:
 
