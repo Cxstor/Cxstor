@@ -1,10 +1,8 @@
 `Hello, World!`
 
-Welcome to my GitHub profile.
-
 I am [Castor](https://github.com/cxstor)!
 
-I am a game and web programmer. I am currently pursuing my undergraduate degree in software engineering.
+I am a game and web programmer currently pursuing an undergraduate degree in software engineering.
 
 ---
 
@@ -16,7 +14,7 @@ I am a game and web programmer. I am currently pursuing my undergraduate degree 
 
 ### Main:
 
-CSS, HTML, JS/JSX/TS/TSX, Luau, Python
+Luau, Python, TypeScript
 
 ### Currently Studying:
 
