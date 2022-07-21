@@ -18,7 +18,7 @@ Haskell
 
 ### Contact Me:
 
-**Discord:** Castor#9657
+**Discord:** Castor#9657 (*472139059028951050*)
 
 **Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
