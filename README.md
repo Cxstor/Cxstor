@@ -18,7 +18,7 @@ Luau, Python, TypeScript
 
 ### Currently Studying:
 
-Java
+Haskell
 
 ---
 
