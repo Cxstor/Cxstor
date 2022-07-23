@@ -20,7 +20,7 @@ Haskell
 
 **Discord:** Castor#9657 (*472139059028951050*)
 
-**Guilded:** [Carter](https://www.guilded.gg/u/Carter)
+**Guilded:** [Carter](https://www.guilded.gg/Carter)
 
 **Twitter:** [@cxstordev](https://twitter.com/cxstordev)
 
