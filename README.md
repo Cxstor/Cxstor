@@ -2,17 +2,11 @@
 
 I am [Castor](https://github.com/cxstor)!
 
-I am a game and web programmer currently pursuing an undergraduate degree in software engineering.
+I am a game and web programmer.
 
 ---
 
-### Main:
-
 Luau, Python, TypeScript
-
-### Currently Studying:
-
-Haskell
 
 ---
 
