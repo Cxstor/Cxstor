@@ -14,7 +14,7 @@ Luau, Python, TypeScript
 
 **Discord:** Castor#9657 (*472139059028951050*)
 
-**Guilded:** [Carter](https://www.guilded.gg/Carter)
+**Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
 **Twitter:** [@cxstordev](https://twitter.com/cxstordev)
 
