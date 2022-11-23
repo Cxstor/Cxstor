@@ -12,7 +12,7 @@ Luau, Python, TypeScript
 
 ### Contact Me:
 
-**Discord:** st#7146(*472139059028951050*)
+**Discord:** st#7146 (*472139059028951050*)
 
 **Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
