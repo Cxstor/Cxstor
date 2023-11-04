@@ -16,4 +16,6 @@ Luau, Python, TypeScript
 
 **Guilded:** [Carter](https://www.guilded.gg/u/Carter)
 
+**Line:** [.carter](https://line.me/ti/p/5464Rp8XKy)
+
 **Timezone:** ~~Central (*UTC-5*)~~ Eastern (*UTC-4*)
