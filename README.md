@@ -14,6 +14,6 @@ Luau, Python, TypeScript
 
 **Discord:** baatsu (*472139059028951050*)
 
-**Line:** [.carter](https://line.me/ti/p/5464Rp8XKy)
+**Line:** [baatsu](https://line.me/ti/p/J_dvzBDOvI)
 
 **Timezone:** ~~Central (*UTC-5*)~~ Eastern (*UTC-4*)
