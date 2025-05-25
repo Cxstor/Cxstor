@@ -12,8 +12,8 @@ Luau, Python, TypeScript
 
 ### Contact Me:
 
-**Discord:** baatsu (*472139059028951050*)
+**Discord:** @baatsu (*472139059028951050*)
 
 **Line:** [baatsu](https://line.me/ti/p/J_dvzBDOvI)
 
-**Timezone:** ~~Central (*UTC-5*)~~ Eastern (*UTC-4*)
+**Timezone:** ~~Central (*UTC-5*)~~ Hawaii Standard Time (*UTC-10*)
